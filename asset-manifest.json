@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/vejoe-leaderboard/static/css/main.e6c13ad2.css",
-    "main.js": "/vejoe-leaderboard/static/js/main.40fe965f.js",
+    "main.js": "/vejoe-leaderboard/static/js/main.965a29aa.js",
     "static/js/787.67a7577d.chunk.js": "/vejoe-leaderboard/static/js/787.67a7577d.chunk.js",
     "index.html": "/vejoe-leaderboard/index.html",
     "main.e6c13ad2.css.map": "/vejoe-leaderboard/static/css/main.e6c13ad2.css.map",
-    "main.40fe965f.js.map": "/vejoe-leaderboard/static/js/main.40fe965f.js.map",
+    "main.965a29aa.js.map": "/vejoe-leaderboard/static/js/main.965a29aa.js.map",
     "787.67a7577d.chunk.js.map": "/vejoe-leaderboard/static/js/787.67a7577d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.40fe965f.js"
+    "static/js/main.965a29aa.js"
   ]
 }
